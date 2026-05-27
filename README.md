@@ -2,7 +2,7 @@
 
 Automatically switch Python virtual environments in zsh.
 
-Inspired by a shell script from [raoulg](https://github.com/raoulg), which you showed in an early morning discussion on the topics of neural networks, hyperparameter tuning, and scientific research. Thank you for sharing the script,  your guidance and support. All have been invaluable in my learning experience.
+Inspired by a shell script from [@raoulg](https://github.com/raoulg), which you showed in an early morning discussion on the topics of neural networks, hyperparameter tuning, and scientific research. Thank you for sharing the script,  your guidance and support. All have been invaluable in my learning experience.
 
 ## Installation
 
