@@ -6,7 +6,7 @@ Inspired by a shell script from [raoulg](https://github.com/raoulg), which you s
 
 ## Installation
 
-Plug this with [Zap](https://www.zapzsh.org/) in your `.zshrc` configuration:
+Plug this with [Zap](https://www.zapzsh.com/) in your `.zshrc` configuration:
 
 ```zsh
 plug "vanesterik/zsh-venv-auto-switch"
