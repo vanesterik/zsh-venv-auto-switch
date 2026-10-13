@@ -37,7 +37,7 @@ The plugin also:
 - activates the virtual environment when a new shell starts inside a project, for example in a new terminal tab,
 - switches to the other project's virtual environment when you `cd` directly from one project into another,
 - uses the nearest `.venv` when projects are nested,
-- leaves a virtual environment active if it can't deactivate it (one without a `deactivate` function, such as a conda environment).
+- leaves a virtual environment active if it can't deactivate it, such as one activated in a parent shell: a subshell inherits its `VIRTUAL_ENV` variable but not its `deactivate` function.
 
 ## License
 
