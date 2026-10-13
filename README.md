@@ -39,6 +39,16 @@ The plugin also:
 - uses the nearest `.venv` when projects are nested,
 - leaves a virtual environment active if it can't deactivate it, such as one activated in a parent shell: a subshell inherits its `VIRTUAL_ENV` variable but not its `deactivate` function.
 
+## Development
+
+Run the tests with:
+
+```zsh
+zsh test.zsh
+```
+
+They also run on GitHub Actions for every push to `main` and every pull request, on Linux and macOS.
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
